@@ -1,0 +1,31 @@
+{
+  "name": "@natahouse/nh-use-fetch",
+  "description": "Custom hook for making API calls",
+  "version": "0.0.1",
+  "main": "useFetch.js",
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natahouse/nh-use-fetch.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "javascript",
+    "api"
+  ],
+  "author": "Natahouse <@natahouse>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/natahouse/nh-use-fetch/issues"
+  }
+}
